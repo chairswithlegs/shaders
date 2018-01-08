@@ -1,0 +1,10 @@
+*
+!*/
+
+!.gitignore
+!LICENSE
+!README.md
+!Gifs/*.gif
+
+!*/*.shader
+!*/*.cs
